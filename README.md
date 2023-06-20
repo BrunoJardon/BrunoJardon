@@ -32,7 +32,7 @@
 </p>
 
 <!-- Distros -->
-  <p align="center">Distros</p>
+  <p align="center">Distros:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Debian-D70A53?style=flat&logo=Debian&logoColor=white">
   <img src="https://img.shields.io/badge/-Kali-478CBF?style=flat&logo=Kali%20Linux&logoColor=white">
@@ -44,7 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brunojardon&show_icons=true&theme=dracula">
 </p>
 
-<!-- Visualizaciones de perfil -->
+<!-- Visualizaciones de perfil
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brunojardon&color=blueviolet">
 </p>
+-->
