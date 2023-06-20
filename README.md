@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">¡Hola! 👋 Soy Bruno Jardon</h1>
+<h1 align="center">¡Hola! 👋</h1>
 
 <!-- Descripción -->
 <p align="center">¡Bienvenido/a a mi perfil de GitHub!</p>
