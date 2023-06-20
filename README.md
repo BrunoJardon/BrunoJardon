@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=Godot%20Engine&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=Godot%20Engine&logoColor=white">
+  <img src="https://img.shields.io/badge/-Script-000?style=flat&logo=gnu-bash&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
@@ -42,15 +43,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunojardon&show_icons=true&theme=dracula">
 </p>
-
-<!-- Proyectos destacados que aun no tengo pero ya tendre
-<h3 align="center">Proyectos Destacados</h3>
-<ul>
-  <li><a href="[enlace al repositorio del proyecto]">Nombre del Proyecto 1</a></li>
-  <li><a href="[enlace al repositorio del proyecto]">Nombre del Proyecto 2</a></li>
-  <li><a href="[enlace al repositorio del proyecto]">Nombre del Proyecto 3</a></li>
-</ul>
--->
 
 <!-- Visualizaciones de perfil -->
 <p align="center">
