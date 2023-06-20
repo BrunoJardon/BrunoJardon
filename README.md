@@ -17,7 +17,25 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=Godot%20Engine&logoColor=white"> 
+  <br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+</p>
+
+<!-- Lenguajes y herramientas -->
+<p align="center">Sistemas operativos:</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-000?style=flat&logo=Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows&logoColor=white"> <br>
+</p>
+
+<!-- Distros -->
+  <p align="center">Distros</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Debian-D70A53?style=flat&logo=Debian&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kali-478CBF?style=flat&logo=Kali%20Linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Ubuntu-DD4814?style=flat&logo=Ubuntu&logoColor=white">
 </p>
 
 <!-- Estadísticas de GitHub -->
