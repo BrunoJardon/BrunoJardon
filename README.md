@@ -16,8 +16,10 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=Godot%20Engine&logoColor=white">
   <img src="https://img.shields.io/badge/-Bash-000?style=flat&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+
 </p>
 
 <!-- Sistemas operativos -->
