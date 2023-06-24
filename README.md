@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">¡Bienvenido/a a mi perfil de GitHub!</h1>
+<h1 align="center">¡Hola! 👋 Bienvenido/a a mi perfil de GitHub</h1>
 
 <!-- Iconos/Redes sociales -->
 <p align="center">
@@ -19,14 +19,14 @@
   <img src="https://img.shields.io/badge/-Apache-D22128?style=flat&logo=Apache&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-
+  <img src="https://img.shields.io/badge/-Arduino-00808C?style=flat&logo=Arduino&logoColor=white">
 </p>
 
 <!-- Sistemas operativos -->
 <p align="center">Sistemas operativos:</p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-000?style=flat&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=Windows&logoColor=white">
 </p>
 
 <!-- Distribuciones de Linux -->
