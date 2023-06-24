@@ -37,10 +37,10 @@
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
 </p>
 
-<!-- Estadísticas de GitHub -->
+<!-- Estadísticas de GitHub 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunojardon&show_icons=true&theme=dracula">
-</p>
+</p> -->
 
 <!-- Visualizaciones de perfil -->
 <!-- <p align="center">
