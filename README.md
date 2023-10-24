@@ -1,18 +1,6 @@
 <!-- Encabezado -->
 <h1 align="center">¡Hola! 👋 Bienvenido/a a mi perfil de GitHub</h1>
 
-<!-- Iconos/Redes sociales -->
-<h3 align="center">Acerca de...</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/addfriend.lorem-%235865F2.svg?style=flat&logo=Discord&logoColor=white">
-  <a href="https://www.linkedin.com/in/bruno-jardon-93bba523a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white">
-  </a> 
-  <a href="https://jbnsta.netlify.app/">
-    <img src="https://img.shields.io/badge/-Sitio%20Web-000?style=flat&logo=Google&logoColor=white">
-  </a>
-</div>
-
 <!-- Lenguajes y herramientas -->
 <h3 align="center">Lenguajes y herramientas:</h3>
 <div align="center">
