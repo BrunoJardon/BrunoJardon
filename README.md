@@ -1,31 +1,17 @@
-<!-- Lenguajes y herramientas -->
-<h3 align="center">Lenguajes y herramientas:</h3>
-<div align="center">
-  
-  ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-  
-</div>
+<h3 align="center">Bruno Jardon</h3>
+<p align="center">Desarrollador Web FullStack</p>
 
-<!-- Sistemas operativos -->
-<h3 align="center">Sistemas operativos:</h3>
-<div align="center">
-  
-  ![Linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
-<!-- Distribuciones de Linux -->
-<h3 align="center">Distribuciones de Linux:</h3>
-<div align="center">
-  
-  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
-  ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  
-</div>
-
-<!-- Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunojardon&show_icons=true&theme=dracula">
-</p> -->
+  <img src="https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
+  <img src="https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=%23777BB4" />
+  <img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
+  <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/NextJS-%23323330?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS-%23323330?style=for-the-badge&logo=node.js&logoColor=%6DA55F" />
+  <img src="https://img.shields.io/badge/nestjs-%23323330?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/spring-%23323330.svg?style=for-the-badge&logo=spring&logoColor=%236DB33F" />
+  <img src="https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-%23323330?style=for-the-badge&logo=mongodb&logoColor=%4EA94B" />
+</p>
