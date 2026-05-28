@@ -14,8 +14,3 @@
   <img src="https://img.shields.io/badge/mysql-171d24.svg?style=for-the-badge&logo=mysql&logoColor=fff" />
   <img src="https://img.shields.io/badge/MongoDB-171d24?style=for-the-badge&logo=mongodb&logoColor=%4EA94B" />
 </p>
-<hr/>
-<p align="center">
-  <a href="https://bjardon.netlify.app"><img src="https://img.shields.io/badge/Web Site-171d24.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /></a>
-  <a href="https://www.linkedin.com/in/bruno-jardon/"><img src="https://img.shields.io/badge/LinkedIn-171d24.svg?style=for-the-badge&logo=linkedin&logoColor=%230077B5" /></a>
-</p>
