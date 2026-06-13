@@ -1,8 +1,8 @@
 <h3 align="center">Bruno Jardón</h3>
-<p align="center">Desarrollador Web FullStack <br/> Técnico en Informática</p>
+<p align="center">Desarrollador FullStack <br/> Técnico en Informática</p>
 <p align="center">
   <img src="https://img.shields.io/badge/html-171d24.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26"/>
-  <img src="https://img.shields.io/badge/css-171d24.svg?style=for-the-badge&logo=css3&logoColor=%231572B6" />
+  <img src="https://img.shields.io/badge/css-171d24.svg?style=for-the-badge&logo=css&logoColor=%23663399" />
   <img src="https://img.shields.io/badge/javascript-171d24.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/php-171d24.svg?style=for-the-badge&logo=php&logoColor=%23777BB4" />
   <img src="https://img.shields.io/badge/typescript-171d24.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC" />
