@@ -1,7 +1,7 @@
 <h3 align="center">Bruno Jardón</h3>
 <p align="center">
-  <strong>Desarrollador Full Stack</strong><br/>
-  Técnico en Informática | Estudiante de Ing. en Computación
+  <strong>Full Stack Developer</strong><br/>
+  Computer Technician | Computer Engineering Student
 </p>
 
 <p align="center">
